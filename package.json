@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^22.6.5"
+  }
+}
